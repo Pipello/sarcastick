@@ -5,9 +5,10 @@ import (
 	"log"
 	"os"
 	"regexp"
-	"sarcastick/pkg/news"
-	"sarcastick/pkg/openai"
 	"strings"
+
+	"github.com/Pipello/sarcastick/pkg/news"
+	"github.com/Pipello/sarcastick/pkg/openai"
 
 	"github.com/go-telegram/bot"
 	"github.com/go-telegram/bot/models"

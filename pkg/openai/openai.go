@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"sarcastick/pkg/news"
+	"github.com/Pipello/sarcastick/pkg/news"
 
 	"github.com/go-telegram/bot"
 	"github.com/go-telegram/bot/models"

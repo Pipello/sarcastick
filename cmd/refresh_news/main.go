@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"sarcastick/pkg/news"
+	"github.com/Pipello/sarcastick/pkg/news"
 
 	"golang.org/x/net/html"
 )

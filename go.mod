@@ -1,4 +1,4 @@
-module sarcastick
+module github.com/Pipello/sarcastick
 
 go 1.21
 
